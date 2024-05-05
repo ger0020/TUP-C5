@@ -7,7 +7,7 @@ const contactos = [
     { id: 5, nombre: "Paulo", apellido: "Dybala", telefono: "38147512456" },
     { id: 6, nombre: "Ruben", apellido: "Doblas", telefono: "3818324567" }
 ];
-//
+///
 const App = () => (
     <div className="contac">
         <h1> La Agenda de Contactos TP1</h1>
