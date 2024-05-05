@@ -22,7 +22,7 @@ const App = () => (
         ))}
     </div>
 );
-//7
+////
 const Contacto = ({ id, nombre, apellido, telefono }) => (
     <div className="Tarjeta">
         <h3>{apellido} {nombre}</h3>
